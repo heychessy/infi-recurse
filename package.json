@@ -1,0 +1,23 @@
+{
+  "name": "tradling",
+  "version": "1.0.0",
+  "description": "infinite recusion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heychessy/infi-recurse.git"
+  },
+  "author": "heychessy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heychessy/infi-recurse/issues"
+  },
+  "homepage": "https://github.com/heychessy/infi-recurse#readme",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
