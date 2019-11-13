@@ -1,7 +1,5 @@
 README
 
-[![Build Status](https://travis-ci.com/heychessy/infi-recurse.svg?branch=master)](https://travis-ci.com/heychessy/infi-recurse)
-
 ### Program
 
 A recursive method that creates a infinite shapes of a given height and Width and recursively create inner shapes of same Height - Padding and Width - Padding until there is no space left in the last shape.
