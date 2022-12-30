@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/heychessy/infi-recurse#readme",
   "dependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   }
 }
